@@ -31,7 +31,7 @@ Desarrollador Full-Stack con experiencia en la creación de aplicaciones web esc
 - Integración con servicios en la nube como AWS S3 y DigitalOcean.
 - Desarrollo de plataformas de e-commerce con carritos de compra y sistemas de administración de inventario.
 
-#### **Teatro Municipal Rosita Ávila** - Técnico en Iluminación y Sonido *(2017 - Presente)*
+#### **Teatro Municipal Rosita Ávila** - Técnico en Iluminación y Sonido *(2017 - 2021)*
 - Diseño, programación y operación de iluminación y sonido en espectáculos teatrales.
 - Coordinación técnica para eventos y funciones en vivo.
 
@@ -39,7 +39,7 @@ Desarrollador Full-Stack con experiencia en la creación de aplicaciones web esc
 
 ### **Educación**
 **Universidad Nacional de Tucumán**  
-*Licenciatura en Teatro* *(2010 - Presente)*  
+*Licenciatura en Teatro* *(2010 - 2015)*  
 - Título intermedio obtenido: Técnico Intérprete Dramático.
 
 ---
@@ -54,7 +54,7 @@ Desarrollador Full-Stack con experiencia en la creación de aplicaciones web esc
 ---
 
 ### **Proyectos Destacados**
-#### **Milana Shop** *(2021)*
+#### **Milana Shop** *(2022)*
 - Desarrollo full-stack de una tienda en línea con sistema de inventario y estadísticas de ventas.
 - Tecnologías: Django, React, PostgreSQL, Docker.
 
